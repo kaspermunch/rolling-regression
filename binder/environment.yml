@@ -1,0 +1,16 @@
+name: rolling-regression
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - arviz
+  - git
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pymc
+  - seaborn
+  - xarray
+  - zarr
